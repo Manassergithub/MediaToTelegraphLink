@@ -18,6 +18,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/MediaToTelegraphLink-TeLeTiPs)
 
+<a href="https://render.com/deploy?repo=https://github.com/Manassergithub/MediaToTelegraphLink">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
