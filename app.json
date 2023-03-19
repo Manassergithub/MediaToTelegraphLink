@@ -23,12 +23,6 @@
             "description": "Get from Telegram's @BotFather"
         }
     },
-    "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "Eco"
-    }
-  },
     "buildpacks": [
         {
             "url": "heroku/python"
